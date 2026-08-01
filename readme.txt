@@ -6,8 +6,8 @@ In project, i have designed a Netflix India clone using HTML and CSS.
 
 #Live Demo
 https://viraj-9.github.io/netflix-india-clone/
-Ignore the warning showing to see the project(clone). It is showing that warning because i have used image links instead of the actual images on my local systems.
-It is stand alone clone project it does not have backend so no need to worry about that warning.
+Ignore the warning showing to see the project(clone). 
+It is stand alone clone project and it does not have backend so no need to worry about that warning.
 
 #Built With
 	- HTML5
